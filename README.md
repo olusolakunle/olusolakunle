@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @olusolakunle
 - 👀 I’m interested in Big data, data pipeline, python, Machine learning
-- 🌱 I’m currently learning python, scala and java
+- 🌱 I’m currently learning .NET Core
 - 💞️ I’m looking to collaborate on data pipeline and machine learning
 - 📫 How to reach me olusola.kunle@outlook.com
 
